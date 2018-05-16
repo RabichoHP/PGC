@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC-IHC.Plugins", "PGC-IHC.Plugins.csproj", "{09933A7C-01B5-4810-F73C-6E0CEEC138C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC-IHC", "PGC-IHC.csproj", "{77E85921-47EB-B98A-E6B1-834911A9A164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGC-IHC.Editor.Plugins", "PGC-IHC.Editor.Plugins.csproj", "{C65FF566-EDCA-D014-706C-6AEEBFC45A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09933A7C-01B5-4810-F73C-6E0CEEC138C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09933A7C-01B5-4810-F73C-6E0CEEC138C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09933A7C-01B5-4810-F73C-6E0CEEC138C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09933A7C-01B5-4810-F73C-6E0CEEC138C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E85921-47EB-B98A-E6B1-834911A9A164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E85921-47EB-B98A-E6B1-834911A9A164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E85921-47EB-B98A-E6B1-834911A9A164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E85921-47EB-B98A-E6B1-834911A9A164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65FF566-EDCA-D014-706C-6AEEBFC45A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65FF566-EDCA-D014-706C-6AEEBFC45A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65FF566-EDCA-D014-706C-6AEEBFC45A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65FF566-EDCA-D014-706C-6AEEBFC45A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
